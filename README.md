@@ -33,8 +33,8 @@ Movie List Screen <br>
 - Display Movie Title, Artist, Genre, Track and Rental Price
 - Display Image using SDWebImage with Placeholder
 - Save Track Id in Core Data upon DidSelect to store Last Visit
-- Add to Favorites Functionality 
-<br> App stores track Id in Core Data for Favorites Referencing
+- Add to Favorites Functionality
+- App stores track Id in Core Data for Favorites Referencing
 - Load Default API when search bar is cleared
 - View Movie Details
 
@@ -52,7 +52,7 @@ Favorite List <br>
 ![Favorite List](https://user-images.githubusercontent.com/85978406/126442471-dd4953bd-2f42-4528-b2b7-11b50cef9aa9.png)
 <br>
 - Fetch Track Ids from Core Data then call iTunes lookup API.
-<br> App fetches all Ids in Core Data then will be appended in the URL
+- App fetches all Ids in Core Data then will be appended in the URL
 - Slide to Delete Favorite functionality. 
 <br> Deletes record in Core Data
 <br>
