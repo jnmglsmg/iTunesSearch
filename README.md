@@ -49,7 +49,7 @@ Movie Details <br>
 
 Favorite List <br>
 <br>
-![Favorite List](https://user-images.githubusercontent.com/85978406/126442471-dd4953bd-2f42-4528-b2b7-11b50cef9aa9.png)
+![Favorite Movie Details](https://user-images.githubusercontent.com/85978406/126445393-c0e24aae-5af0-4eeb-8fce-18c2e711093c.png)
 <br>
 - Fetch Track Ids from Core Data then call iTunes lookup API.
 - App fetches all Ids in Core Data then will be appended in the URL
