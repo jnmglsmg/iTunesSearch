@@ -6,7 +6,7 @@
 
 Design Pattern: MVVM <br>
 Why MVVM? <br>
-Given that the requirements mentioned that app should be scalable as well as iTunes API returns feature-rich responses <br>
+Given that the requirements mentioned that app should be scalable as well as iTunes API returns feature-rich responses
 Application can be expanded to cater various powerful modules. <br>
 Pros of MVVM: <br>
 - Decoupled logics from View hence more testable
