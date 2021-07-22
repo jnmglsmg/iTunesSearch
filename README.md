@@ -10,7 +10,7 @@ Given that the requirements mentioned that app should be scalable as well as iTu
 Application can be expanded to cater various powerful modules. <br>
 Pros of MVVM: <br>
 - Decoupled logics from View hence more testable
-- Good for Large Scale Project <br>
+- Good for Large Scale Project <br> <bc>
 Cons <br>
 - Overkill for small projects
 - Reusability of View Models and Views can be difficult<br>
